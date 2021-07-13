@@ -10,3 +10,7 @@ https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-2_Favorite-Movi
 <h3>Coding Exercise 3 - Wolf Images And Links</h3>
 <br>
 https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-3_Wolf-Images-And-Links.html
+
+<h3>Coding Exercise 4 - Snowman Logo</h3>
+<br>
+https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-4_Snowman-Logo.html
