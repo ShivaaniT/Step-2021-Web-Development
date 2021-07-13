@@ -42,3 +42,7 @@ https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-10_Descendent-S
 <h3>Coding Exercise 11 - Checkboard</h3>
 <br>
 https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-11_Checkboard.html
+
+<h3>Coding Exercise 12 - Box Model</h3>
+<br>
+https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-12_Box-Model.html
