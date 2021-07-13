@@ -18,3 +18,7 @@ https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-4_Snowman-Logo.
 <h3>Coding Exercise 5 - Tables Practice</h3>
 <br>
 https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-5_Tables-Practice.html
+
+<h3>Coding Exercise 6 - Forms Practice</h3>
+<br>
+https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-6_Forms-Practice.html
