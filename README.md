@@ -22,3 +22,23 @@ https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-5_Tables-Practi
 <h3>Coding Exercise 6 - Forms Practice</h3>
 <br>
 https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-6_Forms-Practice.html
+
+<h3>Coding Exercise 7 - Our First CSS</h3>
+<br>
+https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-7_Our-First-CSS.html
+
+<h3>Coding Exercise 8 - Hipster Logo</h3>
+<br>
+https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-8_Hipster-Logo.html
+
+<h3>Coding Exercise 9 - Basic Selectors</h3>
+<br>
+https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-9_Basic-Selectors.html
+
+<h3>Coding Exercise 10 - Descendent Selectors</h3>
+<br>
+https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-10_Descendent-Selectors.html
+
+<h3>Coding Exercise 11 - Checkboard</h3>
+<br>
+https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-11_Checkboard.html
