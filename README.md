@@ -34,3 +34,6 @@ https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-11_Checkboard.h
 
 <h5>Coding Exercise 12 - Box Model</h5>
 https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-12_Box-Model.html
+
+<h3>Pricing Panel Project</h3>
+https://shivaanit.github.io/Step-2021-Web-Development/Pricing-Panel/index.html
