@@ -40,3 +40,6 @@ https://shivaanit.github.io/Step-2021-Web-Development/Pricing-Panel/index.html
 
 <h5>Coding Exercise 13 - Basic Bootstrap</h5>
 https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-13_Basic-Bootstrap.html
+
+<h5>Coding Exercise 14 - Bootstrap Grid</h5>
+https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-14_Bootstrap-Grid.html
