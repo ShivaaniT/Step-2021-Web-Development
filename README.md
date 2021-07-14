@@ -1,6 +1,5 @@
 # Step-2021-Web-Development
 <h3>Coding Exercise 1 - Pangolin Practice</h3>
-<br>
 https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-1_Pangolin-Practice.html
 
 <h3>Coding Exercise 2 - Favorite Movies</h3>
