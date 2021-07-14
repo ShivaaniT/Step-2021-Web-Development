@@ -43,3 +43,6 @@ https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-13_Basic-Bootst
 
 <h5>Coding Exercise 14 - Bootstrap Grid</h5>
 https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-14_Bootstrap-Grid.html
+
+<h4>Museum Of Candy</h4>
+https://shivaanit.github.io/Step-2021-Web-Development/Museum-Of-Candy/index.html
