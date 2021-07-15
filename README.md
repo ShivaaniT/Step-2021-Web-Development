@@ -1,30 +1,30 @@
 # Step-2021-Web-Development
 <h5>Coding Exercise 1 - Pangolin Practice</h5>
-https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-1_Pangolin-Practice.html
+https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-01_Pangolin-Practice.html
 
 <h5>Coding Exercise 2 - Favorite Movies</h5>
-https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-2_Favorite-Movies.html
+https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-02_Favorite-Movies.html
 
 <h5>Coding Exercise 3 - Wolf Images And Links</h5>
-https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-3_Wolf-Images-And-Links.html
+https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-03_Wolf-Images-And-Links.html
 
 <h5>Coding Exercise 4 - Snowman Logo</h5>
-https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-4_Snowman-Logo.html
+https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-04_Snowman-Logo.html
 
 <h5>Coding Exercise 5 - Tables Practice</h5>
-https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-5_Tables-Practice.html
+https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-05_Tables-Practice.html
 
 <h5>Coding Exercise 6 - Forms Practice</h5>
-https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-6_Forms-Practice.html
+https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-06_Forms-Practice.html
 
 <h5>Coding Exercise 7 - Our First CSS</h5>
-https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-7_Our-First-CSS.html
+https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-07_Our-First-CSS.html
 
 <h5>Coding Exercise 8 - Hipster Logo</h5>
-https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-8_Hipster-Logo.html
+https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-08_Hipster-Logo.html
 
 <h5>Coding Exercise 9 - Basic Selectors</h5>
-https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-9_Basic-Selectors.html
+https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-09_Basic-Selectors.html
 
 <h5>Coding Exercise 10 - Descendent Selectors</h5>
 https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-10_Descendent-Selectors.html
