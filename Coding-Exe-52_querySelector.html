@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Todos</title>
+</head>
+<style>
+    /* No need to change anythign in here! */
+    .done {
+    color: grey;
+    text-decoration: line-through;
+    }
+</style>
+<body>
+    <h1>Garden Todos</h1>
+    <input type="text" placeholder="New Todo">
+    <ul>
+        <li>Start Seedlings</li>
+        <li class="done">Deadhead Zinnias</li>
+        <li class="done">Water Tomatoes</li>
+        <li class="done">Harvest Potatoes</li>
+        <li>Prune Roses</li>
+    </ul>
+    <label>Delete All</label>
+    <input type="checkbox" id="scales" name="scales" checked>
+
+</body>
+<script>
+    // Your code goes in here!
+    let doneTodos=document.querySelectorAll('.done');
+    let checkbox=document.querySelector('input[type="checkbox"]');
+</script>
+</html>
