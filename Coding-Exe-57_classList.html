@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<head>
+    <title>ClasList</title>
+    <!--LEAVE THESE LINES ALONE, PLEASE! THEY MAKE THE LIVE PREVIEW WORK!-->
+    <script src="node_modules/babel-polyfill/dist/polyfill.js" type="text/javascript"> </script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+</head>
+
+<style>
+    /*No need to touch anything in this file:*/
+    li {
+      background-color: #B10DC9;
+  }
+
+  .highlight {
+      background-color: #7FDBFF;
+  }
+</style> 
+
+<body>
+    <!--LEAVE THIS FILE ALONE!-->
+    <ul>
+        <li>Hello</li>
+        <li class="highlight">Hello</li>
+        <li>Hello</li>
+        <li>Hello</li>
+        <li class="highlight">Hello</li>
+        <li>Hello</li>
+    </ul>
+</body>
+
+<script>
+    // WRITE YOUR CODE IN HERE:
+    var uls = document.getElementsByTagName('ul');
+    for(var i=0;i<uls.length;i++){
+        var lis=uls[i].getElementsByTagName('li');
+        for(var j=0;j<lis.length;j++){
+            lis[j].classList.toggle('highlight');
+        }
+    }
+</script> 
+
+</html>
