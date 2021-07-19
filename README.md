@@ -49,3 +49,36 @@ https://shivaanit.github.io/Step-2021-Web-Development/Museum-Of-Candy/index.html
 
 <h3>ToDo List</h3>
 https://shivaanit.github.io/Step-2021-Web-Development/To-Do-List/index.html
+
+<h5>Coding Exercise 51 - getElementById</h5>
+https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-51_getElementById.html
+
+<h5>Coding Exercise 52 - querySelector</h5>
+https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-52_querySelector.html
+
+<h5>Coding Exercise 53 - Pickles Exercise</h5>
+https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-53_Pickles-Exe.html
+
+<h5>Coding Exercise 54 - Manipulating Attributes</h5>
+https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-54_Manipulating-Attributes.html
+
+<h5>Coding Exercise 55 - Magical Forest Circle</h5>
+https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-55_Magical-Forest-Circle.html
+
+<h5>Coding Exercise 56 - Rainbow Text</h5>
+https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-56_Rainbow-Text.html
+
+<h5>Coding Exercise 57 - classList</h5>
+https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-57_classList.html
+
+<h5>Coding Exercise 58 - 100-Buttons</h5>
+https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-58_100-Buttons.html
+
+<h5>Coding Exercise 59 - Know the Enenmy</h5>
+https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-59_Know-the-Enemy.html
+
+<h5>Coding Exercise 60 - Click Events</h5>
+https://shivaanit.github.io/Step-2021-Web-Development/Coding-Exe-60_Click-Events.html
+
+<h3>Score Keeper</h3>
+https://shivaanit.github.io/Step-2021-Web-Development/Score-Keeper/index.html
